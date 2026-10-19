@@ -125,7 +125,7 @@ __
 
 ##  Live Power BI Dashboard
 
-[**View Live Dashboard →**](https://app.powerbi.com/view?r=eyJrIjoiOWE1Y2M5YTUtYmI3ZS00ZGYxLThmNDQtZjAzMDc1MGJhMjJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[**View Live Dashboard →**](https://app.powerbi.com/groups/me/reports/0e002655-ed41-4c58-8283-dc95c8ddda7a/7c780ddaca72786e794f?experience=power-bi&bookmarkGuid=4966fc7aac632215c2bc)
 
 
 ##  Conclusion
